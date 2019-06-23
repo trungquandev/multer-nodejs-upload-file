@@ -1,4 +1,4 @@
-# NodeJS upload file by multer
+# NodeJS upload single file by multer
 
 ## Requirements
 
